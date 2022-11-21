@@ -102,3 +102,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [![Twitter Badge](https://img.shields.io/badge/-@BrunoGoferreir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunoGoferreir)](https://twitter.com/BrunoGoferreir) [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/bruno-goncalves-ferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-brunogonferreira-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:brunogonferreira@gmail.com)](mailto:brunogonferreira@gmail.com)
+# rocket-news
