@@ -1,3 +1,3 @@
-setTimeout(() => {
-  window.location = "/"
-}, 3000)
+// setTimeout(() => {
+//   window.location = "/"
+// }, 3000)
